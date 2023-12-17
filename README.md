@@ -48,7 +48,7 @@ Low-profile 36-key split keyboard.
 -  Keycaps
 -  Batteries
 -  2.4GHz receiver
--  SHIPPING(11$)
+-  Shipping (11$)
 ```
 
 
