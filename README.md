@@ -30,7 +30,7 @@ Low-profile 36-key split keyboard.
 
 > Alternatives: ?
 
-[supermini nRF52840](https://www.aliexpress.us/item/3256805848952479.html) (nice!nano v2 compatible with2 alternative) (7$)(+6$ shipping)
+[supermini nRF52840](https://www.aliexpress.us/item/3256805848952479.html) (nice!nano v2 compatible alternative) (7$)(+6$ shipping)
 
 
 ## Price: 
@@ -48,7 +48,7 @@ Low-profile 36-key split keyboard.
 -  Keycaps
 -  Batteries
 -  2.4GHz receiver
--  SHIPPING(11$)
+-  Shipping (11$)
 ```
 
 
