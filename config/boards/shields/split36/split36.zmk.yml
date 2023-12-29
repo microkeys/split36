@@ -1,0 +1,13 @@
+file_format: "1"
+id: split36
+name: split36
+type: shield
+url: https://github.com/microkeys/split36
+requires: [pro_micro]
+#exposes: [i2c_oled]
+features:
+  - keys
+   #- display
+siblings:
+  - split36_left
+  - split36_right
